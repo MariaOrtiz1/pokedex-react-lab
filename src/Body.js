@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Pokemon from './Pokemon'
+import Pokemon from './PokeIndex'
 
 export default class Body extends Component {
     render() {

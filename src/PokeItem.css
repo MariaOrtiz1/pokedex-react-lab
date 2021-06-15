@@ -1,0 +1,29 @@
+.render-pokemon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 10px double red;
+    border-radius: 10%; */
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    border: 10px double;
+}
+
+.booger {
+    display: flex;
+    font-size: 2rem;
+    text-shadow: #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF0000 0px 0px 20px, #FF0000 0px 0px 30px, #FF0000 0px 0px 40px, #FF0000 0px 0px 50px, #FF0000 0px 0px 75px, 2px 2px 2px rgba(255,8,8,0), 2px 2px 2px rgba(255,8,8,0);
+}
+
+.type-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    border-radius: 10%;
+    outline: 4px solid red;
+    outline-offset: 15px;
+    outline-style: double;
+}
